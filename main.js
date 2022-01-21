@@ -10,6 +10,8 @@ total = 0;
 totalcredits = 0;
 totalpoints = 0;
 
+
+
 cn1 = "";
 ch1 = "";
 cm1 = "";
